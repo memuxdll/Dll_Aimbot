@@ -1,0 +1,3 @@
+ScanCodeBytes=11,22
+AddressScanOffset=A0
+AddressRepOffset=6C
